@@ -69,4 +69,4 @@ window.onload = function() {
       chrome.windows.update(targetWindowId, {focused: true});
     });
   });
-}
+};
